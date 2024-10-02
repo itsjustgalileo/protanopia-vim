@@ -10,4 +10,10 @@ A theme for people with protanopia. Inspired by [Github VSCode Colorblind Dark](
 
 ## SCREENSHOTS
 
-![C example](screenshots/screenshot.png)
+![C example](./screenshots/screenshot.png)
+
+---
+
+## TODO
+
+- [ ] Add more examples
